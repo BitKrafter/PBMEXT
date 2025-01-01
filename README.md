@@ -4,6 +4,7 @@ Personal Budget Manager (EXPERT LEVEL):
 This Budget Tracker program allows you to track your expenses for multiple months, manage categories, subcategories, and adjust budgets.This program helps you track and manage your finances month by month. You can easily add, delete, and edit expenses, calculate the total monthly expenses, and manage your budget effectively. Here's a quick guide to using the program:
 
 Main Features:
+
 1: Track Monthly Expenses: Input your budget, categories, subcategories, and expenses.
 2: Add, Delete, Edit Expenses: Manage your expenses by adding new ones, deleting existing ones, or editing them.
 3: Budget Management: The program calculates total expenses, compares them with your budget, and tracks remaining or exceeded amounts.
